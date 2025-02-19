@@ -8,6 +8,12 @@
   color: rgb(220, 217, 214);
   background-color: rgb(17, 14, 14);
 }
+#norm{
+  height: 55px;
+  text-align: center;
+  padding-top: 16px;
+  width: 100%;
+}
 
 
 
